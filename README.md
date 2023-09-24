@@ -1,6 +1,7 @@
 # AutoMapper
 
-in nuget pachage
+1- Install-Package AutoMapper
+2- in nuget pachage
 
 automapper.extensions.microsoft.dependencyinjection
 
